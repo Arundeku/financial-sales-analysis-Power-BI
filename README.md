@@ -74,12 +74,3 @@ An end-to-end analytics solution built in Power BI, visualizing global sales dat
 - **Presentation:** Microsoft PowerPoint  
 
 ---
-
-## 📂 Repository Structure
-global-sales-dashboard/
-│
-├── global_superstore_2016.xlsx                 # Raw dataset used for analysis
-├── Global Sales Dashboard Project.pbix         # Power BI dashboard file
-├── global_sales_dashboard_summary_updated.pptx # PowerPoint presentation of insights
-├── README.md                                   # Project overview and documentation
-└── assets/                                     # (Optional) Folder for screenshots or visuals
